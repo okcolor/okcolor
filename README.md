@@ -1,16 +1,16 @@
-## Hi there 👋
+freelance developer
 
-<!--
-**okcolor/okcolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+  <summary>📚 languages</summary>
+  - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
+  - <a href="https://en.wikipedia.org/wiki/CSS">CSS</a><br>
+  - <a href="https://en.wikipedia.org/wiki/HTML">HTML</a><br>
+  - <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a><br>
+  - <a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a><br>
+  - <a href="https://en.wikipedia.org/wiki/Node.js">NodeJS</a><br>
+  - <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a><br>
+  - <a href="https://en.wikipedia.org/wiki/SQL">SQL</a><br>
+  - <a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a><br>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.imgur.com/NDpvlPf.gif)
