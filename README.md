@@ -8,7 +8,6 @@ freelance developer
   - <a href="https://en.wikipedia.org/wiki/HTML">HTML</a><br>
   - <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a><br>
   - <a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a><br>
-  - <a href="https://en.wikipedia.org/wiki/Node.js">NodeJS</a><br>
   - <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a><br>
   - <a href="https://en.wikipedia.org/wiki/SQL">SQL</a><br>
   - <a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a><br>
